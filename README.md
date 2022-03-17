@@ -3,7 +3,7 @@
 ## Start App
 * Git clone https://github.com/markus-appwrk/angular-echarts.git
 * Run `npm install` to install npm packages
-* Run `npm run start` to start lab mode
+* Run `npm run start` to start
 
 
 # Sample Screenshots
