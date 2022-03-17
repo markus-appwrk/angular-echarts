@@ -8,4 +8,4 @@
 
 # Sample Screenshots
 * Screenshot 1
-![alt text](https://github.com/markus-appwrk/transaction-app-Ionic-nodejs/blob/main/Screenshot_1.png?raw=true)
+![alt text](https://github.com/markus-appwrk/angular-echarts/blob/main/Screenshot_1.png?raw=true)
